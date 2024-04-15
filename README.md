@@ -4,3 +4,4 @@
 ## I will also be adding links as the progress goes on to various repos when refer to that for commit history or just in general links to resources. 
 
 ### Currently right I will be wireframing and designing and sketching how i want my project to look in figma. And will update with changes to that then back to more video and learning about figma and designing and styling 
+### Practicing better burnout prevention activies have been sitting in a chair since 9AM CST then we ran a little past start of lunch then i started back at 3PM CST and was working up until now 3:51pm cst gonna go for a brief walk and continue figma will mark again when back 
