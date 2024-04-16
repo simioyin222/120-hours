@@ -46,7 +46,7 @@
 ##### Randy Couture - Known for his wrestling background and being a multi-division champion.
 ##### B.J. Penn - Celebrated for his skills in Brazilian Jiu-Jitsu and success in multiple weight classes.
 ##### Matt Hughes - One of the greatest welterweights with multiple title defenses.
-##### Ronda Rousey - Pivotal in popularizing women's MMA and former bantamweight champion.
+##### Anthony Joshua - Pivotal in popularizing women's MMA and former bantamweight champion.
 ##### Tito Ortiz - Known for his feuds and long reign as light heavyweight champion.
 ##### Royce Gracie - Iconic for his role in the early UFC tournaments, showcasing Brazilian Jiu-Jitsu.
 ##### Frankie Edgar - Noted for his endurance and success across multiple weight classes.
