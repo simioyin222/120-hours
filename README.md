@@ -78,3 +78,4 @@
 ![Screenshot (17)](https://github.com/simioyin222/120-hours/assets/141048058/659c08e8-3dce-4a24-95bd-813395529128)
 
 #### setting up first prototype and draft within iphone 13 mini most modern and common size for phones then will replicate to bigger phone size soleley because this will be a mobile app fistyl and a web app secondly 
+#### ![Iphone 13 Mini - First Frame](https://github.com/simioyin222/120-hours/assets/141048058/8e737cd6-e39f-4086-b52c-9073a55a0c79)
