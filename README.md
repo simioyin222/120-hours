@@ -49,7 +49,7 @@
 ##### Anthony Joshua - Pivotal in popularizing women's MMA and former bantamweight champion.
 ##### Tito Ortiz - Known for his feuds and long reign as light heavyweight champion.
 ##### Royce Gracie - Iconic for his role in the early UFC tournaments, showcasing Brazilian Jiu-Jitsu.
-##### Frankie Edgar - Noted for his endurance and success across multiple weight classes.
+##### charles do bronx - Noted for his endurance and success across multiple weight classes.
 ##### Jose Aldo - Longtime featherweight champion renowned for his striking and defensive skills.
 ##### Brock Lesnar - Brought significant attention to the UFC with his background from professional wrestling.
 ##### Stipe Miocic - Recognized for his heavyweight title reigns and knockout power.
@@ -58,11 +58,11 @@
 ##### Alexander Volkanovski - Current featherweight champion known for his strategic fighting style.
 ##### Tyron Woodley - Former welterweight champion known for his powerful striking and wrestling.
 ##### Forrest Griffin - Known for his role in one of the most important fights in UFC history that popularized the sport.
-##### Chris Weidman - Noted for ending Anderson Silva's long reign as middleweight champion.
-##### Lyoto Machida - Famous for his unique karate-based fighting style and former light heavyweight champion.
+##### Francis Ngannou - Heavy KO power
+##### Junior Do Santos - Famous for his unique karate-based fighting style and former light heavyweight champion.
 ##### Kamaru Usman - Dominant welterweight champion known for his grappling and striking.
 ##### Cain Velasquez - Known for his tenure as heavyweight champion and his cardio in the division.
-##### Valentina Shevchenko - Dominant female flyweight champion known for her comprehensive skill set in striking and grappling.
+##### Fedor - Dominant ufc champoion for his comprehensive skill set in striking and grappling.
 ##### Jon Jones - Often considered the greatest for his dominant performances and holding the record as the youngest UFC champion.
 ##### Georges St-Pierre (GSP) - Renowned for his technique and sportsmanship, GSP has been a dominant welterweight champion and is frequently mentioned as one of the best of all time.
 ##### Anderson Silva - Known for his striking and longevity in the sport, Silva has been a middleweight champion with numerous defenses.
