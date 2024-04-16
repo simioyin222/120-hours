@@ -82,3 +82,38 @@
 #### HAVE been researching and working on how i want to design navigation bar and front title 
 ![ufc - Google Search - Brave 4_16_2024 4_58_37 PM](https://github.com/simioyin222/120-hours/assets/141048058/d5a7ae20-341f-4ff4-be7c-9afff734cecf)
 #### updated main page creation ![pngimg com - ufc_PNG16](https://github.com/simioyin222/120-hours/assets/141048058/f6fc4a2c-d806-4a8b-88a6-a35c7b557f14)
+#### researching varios api plan to use and how to retrieve real time data whether it be consumed or already made , and also researching other featurees and simplfying what i can actaully do all below will continue tmr from here 
+
+
+
+##### News/Updates Of Upcoming Fights (Through API) (WILL go in color section)
+Set a Reminder (will go in color section)
+ Send and Invite and Reminder to Friends(will go in color section)
+Bars Nearby Through UFC bar finder api (ring part(
+##### Google API or UFC API that pulls up all places you can purchase and stream the fight for ppv 
+Most Recent YouTube videos search “UFC” with filter being the most recent videos posted including live streams
+Feature YouTube videos search “UFC” with filter being featured videos 
+Twitch live streams with hashtags UFC or MMA 
+Organized cool way
+
+#####API/LINKS of food services/delivery service in a cool organized way (doordash, ubereats,)
+API/LINKS of groceries, pizza, wings search in google maps near the user so it will illict various types of foods near them to go and get in person if the user doesnt want to do door dash or ubereats 
+Put them in cool organzied box format maybe, icon near them to better show it off ?
+
+
+###### Twitter API with all tweets containing ufc 
+Twitter API with all tweets containing mma
+Twitter API with all tweets from other ufc accounts i like and are mainly main ufc handle (Assuming user will have to login t to view stuff)
+Instagram Api of official ufc page and another ufc/mma account that is consistent (Assuming user will have to login t to view stuff)
+Links to betting apps (maybe specially to all mma navigation/routes directly on betting platforms but maybe not)
+Show betting odds according to las Vegas api mma specifically 
+cool organzied way
+
+
+####### Voting System
+User will click on the fighter name that they think will win 
+They will vote on each fight for the fight card (Will updated manually since admin never misses ufc fights, but maybe more streamlined way to do this)
+After clicking on the fighter name and voting the user vote will continue on voting on all the fighters on the card 
+Once the user is done voting the page will illict a final overall visual analysis of all the total votes for each fight and visually display to the user (with their vote now included) what the majority of people think(who will win of each fight ) 
+Will only be able to do once (to avoid repetative or skewed data) 
+Whole page will start and be heading UFC FIGHT NIGHT, THEN below will be the voting system loaded already and updated , then final analsysis will be a tug of war  type of bar that will show the user with more idk mma gloves is the one who everyone thinks will be winning 
