@@ -41,3 +41,35 @@
 ###### Frontend Frameworks: Proficiency in frontend frameworks like React.js or Angular.js is highly valued for creating responsive and efficient applications.
 ###### Performance Optimization: Techniques to ensure that web applications are optimized for speed and efficiency.
 ###### SEO Basics: Understanding of basic SEO principles to ensure that the application is discoverable and ranks well on search engines.
+
+### Finding a picture for all these fighters maybe even more for main background 
+##### Randy Couture - Known for his wrestling background and being a multi-division champion.
+##### B.J. Penn - Celebrated for his skills in Brazilian Jiu-Jitsu and success in multiple weight classes.
+##### Matt Hughes - One of the greatest welterweights with multiple title defenses.
+##### Ronda Rousey - Pivotal in popularizing women's MMA and former bantamweight champion.
+##### Tito Ortiz - Known for his feuds and long reign as light heavyweight champion.
+##### Royce Gracie - Iconic for his role in the early UFC tournaments, showcasing Brazilian Jiu-Jitsu.
+##### Frankie Edgar - Noted for his endurance and success across multiple weight classes.
+##### Jose Aldo - Longtime featherweight champion renowned for his striking and defensive skills.
+##### Brock Lesnar - Brought significant attention to the UFC with his background from professional wrestling.
+##### Stipe Miocic - Recognized for his heavyweight title reigns and knockout power.
+##### Dominick Cruz - Known for his innovative movement and being a bantamweight champion.
+##### Max Holloway - Celebrated for his featherweight title reign and striking skills.
+##### Alexander Volkanovski - Current featherweight champion known for his strategic fighting style.
+##### Tyron Woodley - Former welterweight champion known for his powerful striking and wrestling.
+##### Forrest Griffin - Known for his role in one of the most important fights in UFC history that popularized the sport.
+##### Chris Weidman - Noted for ending Anderson Silva's long reign as middleweight champion.
+##### Lyoto Machida - Famous for his unique karate-based fighting style and former light heavyweight champion.
+##### Kamaru Usman - Dominant welterweight champion known for his grappling and striking.
+##### Cain Velasquez - Known for his tenure as heavyweight champion and his cardio in the division.
+##### Valentina Shevchenko - Dominant female flyweight champion known for her comprehensive skill set in striking and grappling.
+##### Jon Jones - Often considered the greatest for his dominant performances and holding the record as the youngest UFC champion.
+##### Georges St-Pierre (GSP) - Renowned for his technique and sportsmanship, GSP has been a dominant welterweight champion and is frequently mentioned as one of the best of all time.
+##### Anderson Silva - Known for his striking and longevity in the sport, Silva has been a middleweight champion with numerous defenses.
+##### Khabib Nurmagomedov - Undefeated in his career, Khabib is celebrated for his grappling skills and dominant performances.
+##### Conor McGregor - One of the most recognizable faces in MMA, known for his striking, charisma, and being the first to hold titles in two weight classes simultaneously.
+##### Amanda Nunes - Often considered the greatest female MMA fighter, Nunes has dominated her weight class and won titles in two divisions.
+##### Demetrious Johnson - Recognized for his technique and as one of the most successful flyweight champions with multiple defenses.
+##### Henry Cejudo - Known for winning titles in two divisions and his victories over top fighters in both the flyweight and bantamweight classes.
+##### Daniel Cormier - A former heavyweight and light heavyweight champion, respected for his power and wrestling skills.
+##### Chuck Liddell - A key figure in popularizing MMA globally, known for his knockout power.
