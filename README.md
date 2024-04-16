@@ -73,3 +73,5 @@
 ##### Henry Cejudo - Known for winning titles in two divisions and his victories over top fighters in both the flyweight and bantamweight classes.
 ##### Daniel Cormier - A former heavyweight and light heavyweight champion, respected for his power and wrestling skills.
 ##### Chuck Liddell - A key figure in popularizing MMA globally, known for his knockout power.
+ ##### ![Screenshot (16)](https://github.com/simioyin222/120-hours/assets/141048058/37dbfb13-cebe-40f5-9cab-bcde9e46e9f8)
+ #### now finding background for above picture then will mae background in figma will upload that picture as well 
