@@ -81,3 +81,4 @@
 #### ![Iphone 13 Mini - First Frame](https://github.com/simioyin222/120-hours/assets/141048058/8e737cd6-e39f-4086-b52c-9073a55a0c79)
 #### HAVE been researching and working on how i want to design navigation bar and front title 
 ![ufc - Google Search - Brave 4_16_2024 4_58_37 PM](https://github.com/simioyin222/120-hours/assets/141048058/d5a7ae20-341f-4ff4-be7c-9afff734cecf)
+#### updated main page creation ![pngimg com - ufc_PNG16](https://github.com/simioyin222/120-hours/assets/141048058/f6fc4a2c-d806-4a8b-88a6-a35c7b557f14)
