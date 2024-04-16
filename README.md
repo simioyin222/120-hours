@@ -1,5 +1,6 @@
 # 120-hours
 # This is a progress report on all things non coding leading up to my final capstone. https://github.com/simioyin222/UFC-FIGHTNIGHT
+# 04/15/2024
 ## So far all the work I have done leading up to it: https://github.com/simioyin222/Research-Towards-MVP-Capstone- https://github.com/simioyin222/PROGRESS https://github.com/simioyin222/PROGRESS-PT2 https://github.com/simioyin222/PROGRESS-PT3
 ## I will also be adding links as the progress goes on to various repos when refer to that for commit history or just in general links to resources. 
 
@@ -8,3 +9,6 @@
 ### Back working on project through figma https://www.figma.com/file/IVxSmBgu8wzEJZr5JMPo0s/UFC-FIGHTNIGHT?type=design&mode=design&t=KZhgBTQZDStX3xzR-0
 ### Not much further but good progress and essential outlining  from last time just been brainstorming and creating how wireframes and how it will all work will upload picture in a minute here 
 ### Updated figma framework - will continue wireframe ![UFC FIGHTNIGHT – Figma - Brave 4_15_2024 6_57_12 PM](https://github.com/simioyin222/120-hours/assets/141048058/f67814f6-cf9c-408c-88a7-a6936d306ba8)
+# 04/16/2024
+## Forgot to mark work on github , was finishing up brainistorming ideas for capstone will post here momentarily started at 10am cst the time now is 12:24 pm cst
+## 
