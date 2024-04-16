@@ -76,3 +76,5 @@
  ##### ![Screenshot (16)](https://github.com/simioyin222/120-hours/assets/141048058/37dbfb13-cebe-40f5-9cab-bcde9e46e9f8)
  #### now finding background for above picture then will mae background in figma will upload that picture as well 
 ![Screenshot (17)](https://github.com/simioyin222/120-hours/assets/141048058/659c08e8-3dce-4a24-95bd-813395529128)
+
+#### setting up first prototype and draft within iphone 13 mini most modern and common size for phones then will replicate to bigger phone size soleley because this will be a mobile app fistyl and a web app secondly 
