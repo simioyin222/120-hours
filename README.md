@@ -152,3 +152,4 @@ User Interface: Design live update feeds that keep users informed during the eve
 Functionality: Help users find nearby bars where they can watch the fights.
 API Integration: Use Google Maps API to locate and display nearby venues offering viewing of the UFC event.
 User Interface: Integrate maps and location services smoothly into the app, providing easy navigation and details.
+####  Gonna provide a more in detail desciption of exact tools for each feature for research
