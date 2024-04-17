@@ -555,3 +555,7 @@ Axe or WAVE: Integrating accessibility tools into your development process can h
 ##### watching video to beter draw inspiratoin 
 https://www.youtube.com/watch?v=PeGfX7W1mJk&ab_channel=BuildingAmazingThings|
 https://www.youtube.com/watch?v=jNoBUVvbbHc&ab_channel=FlowieDesign
+https://www.youtube.com/watch?v=XzjxqS0xAu0&ab_channel=DesignCode
+https://www.youtube.com/watch?v=q6qA_609UOE&ab_channel=JesseShowalter
+https://www.youtube.com/watch?v=1h73MOcH3xA&ab_channel=DesignCode
+https://www.youtube.com/watch?v=VRf8cyeuxoo&ab_channel=CodeWithChris
