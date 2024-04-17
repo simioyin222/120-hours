@@ -117,3 +117,7 @@ After clicking on the fighter name and voting the user vote will continue on vot
 Once the user is done voting the page will illict a final overall visual analysis of all the total votes for each fight and visually display to the user (with their vote now included) what the majority of people think(who will win of each fight ) 
 Will only be able to do once (to avoid repetative or skewed data) 
 Whole page will start and be heading UFC FIGHT NIGHT, THEN below will be the voting system loaded already and updated , then final analsysis will be a tug of war  type of bar that will show the user with more idk mma gloves is the one who everyone thinks will be winning 
+
+04/17/2024
+##### contuinicance of research of api and calls how i will implement some of these functions
+
