@@ -121,4 +121,34 @@ Whole page will start and be heading UFC FIGHT NIGHT, THEN below will be the vot
 04/17/2024
 ##### contuinicance of research of api and calls how i will implement some of these functions
 ##### still researching api calls and features and full functions so io know how to better design the remaining pages 
-
+##### still researching but so far have kind of simplfied it to 
+1. Event Creation and Management:
+Functionality: Users can create their own UFC event nights, specifying the date, time, and which fights they are interested in.
+Data Storage: Use your backend database (e.g., MongoDB) to store event details.
+User Interface: Design forms in Figma for event creation, ensuring a user-friendly interface.
+Backend: Implement API endpoints to handle creating, updating, and retrieving user-created events.
+2. Invitations and Reminders:
+Functionality: Users can invite friends via email or social media and set reminders for themselves.
+Integration: Use email API services like SendGrid for sending emails, and implement local notifications for reminders.
+User Interface: Design an intuitive invitation interface in Figma, allowing users to easily add friends’ contact information and send invitations.
+3. Voting on Fights:
+Functionality: Allow users to vote on which fights they are most excited about for each event.
+Data Handling: Store votes in your database, ensuring each user can only vote once per fight.
+User Interface: Create interactive voting components in Figma that are engaging and easy to use.
+Backend: Develop endpoints for casting and retrieving votes, and calculating the most anticipated fights.
+4. Integration of Food and Drink Ordering:
+Functionality: Users can order food and drinks through integrated services like UberEats or DoorDash.
+API Integration: Partner with food delivery services and use their APIs to place orders directly from the app.
+User Interface: Design a seamless ordering process within the app, making it easy to order from within the event page.
+5. Social Media Interaction:
+Functionality: Display relevant social media posts and allow users to interact with content.
+API Use: Integrate Twitter and Instagram APIs to fetch and display posts related to the UFC.
+User Interface: Design areas in your app where social media content is prominently displayed and can be interacted with.
+6. Real-Time Updates on Fights:
+Functionality: Use the UFC Python package to fetch real-time updates on fight nights.
+Integration: Schedule periodic updates to fetch the latest data and display it in your app.
+User Interface: Design live update feeds that keep users informed during the event.
+7. Location-Based Services:
+Functionality: Help users find nearby bars where they can watch the fights.
+API Integration: Use Google Maps API to locate and display nearby venues offering viewing of the UFC event.
+User Interface: Integrate maps and location services smoothly into the app, providing easy navigation and details.
