@@ -404,3 +404,71 @@ To integrate food ordering capabilities directly from platforms like Uber Eats o
     
 - **API Authentication**: Twitch API requires an OAuth token for authentication.
 - **Limit**: The Twitch API has rate limits, but the basic tier should be adequate for initial development and moderate use.
+
+### Better outline for provided features finalized and how they will be implem,ented 
+Project Overview: UFC Event Planner
+Objective
+Develop a dynamic and interactive web application for UFC fans to plan their fight night experiences. Users will be able to create events, vote on fights, receive real-time updates, and order food or find local bars that broadcast the fights.
+
+Key Features and Implementation Strategy
+1. Event Creation and Management
+Functionality: Users create their UFC event nights, choosing the date, time, and specific fights.
+Tech Stack:
+Frontend: React for dynamic UI components.
+Backend: Node.js with Express to handle API requests.
+Database: MongoDB for storing event details.
+Implementation: Design user-friendly forms in Figma, implement CRUD (Create, Read, Update, Delete) operations in the backend.
+2. Voting on Fights
+Functionality: Users vote on which fights they are most excited about.
+Tech Stack:
+Frontend: React components for interactive voting UI.
+Backend: Node.js with voting logic to ensure one vote per fight per user.
+Database: MongoDB to store votes.
+Implementation: Create engaging components in Figma, develop endpoints for voting and retrieving results.
+3. Real-Time Updates on Fights
+Functionality: Fetch real-time updates on fight nights using the UFC Python package.
+Integration: Schedule periodic updates to fetch the latest data.
+User Interface: Design live update feeds in Figma.
+Backend: Python scripts run via a service or cron job to update fight details.
+4. Food Delivery Integration
+Functionality: Integration with food delivery services like Uber Eats and DoorDash.
+Implementation: Use deep linking to direct users to food services.
+User Interface: Embed links within the event page for easy access.
+5. Local Notifications for Reminders
+Tech Stack: Web Notifications API for browsers.
+Functionality: Notify users about upcoming fights or events they've shown interest in.
+Implementation: Implement permission-based notifications triggered by specific user actions or time.
+6. Social Media Integration (Twitter)
+Functionality: Display live feeds of tweets related to UFC.
+Tech Stack: Twitter API v2 to fetch real-time tweets.
+User Interface: Design a section in the app for social media feeds.
+Implementation: Utilize Twitter's stream endpoints to pull live data.
+7. User-Generated Content for UFC Fight Venues
+Functionality: Users submit and search for bars showing UFC fights.
+Tech Stack: Google Maps API for displaying locations.
+User Interface: Forms for submission and maps for display.
+Backend: Node.js to handle form submissions and database interactions.
+8. Streaming and Media Content
+Functionality: Links to streaming platforms and recent YouTube videos.
+Tech Stack: YouTube API for video content, manual links for streaming services.
+Implementation: Implement API calls to YouTube and maintain a database of streaming service links.
+Development Tools and Languages
+Frontend: React, HTML5, CSS3, JavaScript
+Backend: Node.js, Express, Python (for the UFC data fetching script)
+Database: MongoDB
+APIs: UFC Python package, Twitter API, YouTube API, Google Maps, Twitch API
+Design and Prototyping: Figma
+Deployment and Testing
+Deployment: Deploy the application on a cloud platform like AWS or Heroku.
+Testing: Use Jest for frontend testing and Mocha for backend testing. Conduct user testing to ensure functionality and usability.
+Future Enhancements
+Expand social media integrations to include Instagram and possibly Facebook.
+Enhance food delivery options by integrating more services or providing recommendations based on user location and preferences.
+This comprehensive outline should guide your development process and ensure each component is well-planned and executed. As you proceed with designing and styling in Figma, you can refine these plans based on the visual and user experience feedback. Let me know if there's any specific area you need further assistance with!
+
+
+
+
+
+
+
