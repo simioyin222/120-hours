@@ -467,7 +467,7 @@ Enhance food delivery options by integrating more services or providing recommen
 This comprehensive outline should guide your development process and ensure each component is well-planned and executed. As you proceed with designing and styling in Figma, you can refine these plans based on the visual and user experience feedback. Let me know if there's any specific area you need further assistance with!
 
 
-
+##### now back to brainstorming and creating in figma for each page/ part of the program of ui/ux please refer to this link https://www.figma.com/file/IVxSmBgu8wzEJZr5JMPo0s/UFC-FIGHTNIGHT?type=design&node-id=0%3A1&mode=design&t=H1MDyVZOuQ7tRGPx-1
 
 
 
