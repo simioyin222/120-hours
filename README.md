@@ -153,3 +153,254 @@ Functionality: Help users find nearby bars where they can watch the fights.
 API Integration: Use Google Maps API to locate and display nearby venues offering viewing of the UFC event.
 User Interface: Integrate maps and location services smoothly into the app, providing easy navigation and details.
 ####  Gonna provide a more in detail desciption of exact tools for each feature for research
+## How features will be specifically implemented
+
+## Will be using react to responsively and in a clean way present all this :
+
+- **React**: Use components to handle different data sources and display them effectively. You could create separate components for YouTube videos, Twitch streams, and PPV locations.
+
+Email Notification Feature:
+
+1.
+
+- **Features**: Mailjet offers solutions for both transactional emails and email marketing. It provides real-time monitoring and detailed statistics, along with A/B testing and email automation.
+- **Free Tier**: You can send up to 6,000 emails per month with a daily limit of 200 emails.
+- **Website**: [Mailjet](https://www.mailjet.com/)
+
+No Social Media Notification Feature Only Local Notification Feature for any device
+
+1. **Web Browsers (Desktop and Mobile)**
+
+For web applications, you can use the **Web Notifications API** which allows modern browsers to display system notifications to users, similar to native applications on mobile and desktop devices.
+
+**Key Points**:
+
+- **Permissions**: Users must grant permission to receive notifications.
+- **Compatibility**: Supported by most modern browsers including Chrome, Firefox, Safari, and Edge.
+- **Implementation**: You can trigger notifications based on user actions or timed events, even when the user is not actively using your web page but has it open in a browser.
+
+**Example Code**:
+
+```jsx
+javascriptCopy code
+if ('Notification' in window) {
+  Notification.requestPermission().then(permission => {
+    if (permission === "granted") {
+      const notification = new Notification("Reminder!", {
+        body: "Don't forget your meeting at 3 PM!",
+        icon: 'path/to/icon.png'
+      });
+    }
+  });
+}
+
+```
+
+### **Mobile Applications (iOS and Android)**
+
+For native mobile applications, you would use the respective APIs provided by the iOS and Android platforms.
+
+- **iOS**: Use the **UserNotifications framework** in iOS to schedule and manage notifications.
+- **Android**: Use the **NotificationCompat API** from Android’s Jetpack libraries to create notifications.
+
+**Key Points**:
+
+- **Local notifications** can be scheduled to trigger at specific times without needing a backend server.
+- **Push notifications** require a server but can be sent at any time, even when the app is not running.
+
+### **Cross-Platform Mobile Apps (React Native, Flutter)**
+
+If you are developing with a cross-platform framework, such as React Native or Flutter, you can use libraries that abstract the native APIs to provide a unified interface.
+
+- **React Native**: Use libraries like **`react-native-push-notification`** or **`notifee`**.
+
+1. Social Media Live Feeds (Twitter)
+
+**Twitter API v2**:
+
+- **Key Features**: Access to real-time tweets, ability to filter by hashtags, words, or phrases, and user engagement data.
+- **Cost**: Twitter offers a free tier in its API v2, which should be sufficient for basic needs and smaller-scale projects. The "Essential" access level includes 500,000 Tweets per month, which is ample for most educational or personal projects.
+- **Advantages**: Direct access to Twitter data allows you to customize your data collection and integration fully.
+- **Website**: [Twitter Developer Platform](https://developer.twitter.com/)
+- [Tweepy](https://www.tweepy.org)
+
+1. Social Media Live Feeds(Instagram)
+
+Still searching 
+
+1. Food Delivery integration and options 
+
+### **Integrating Food Ordering Services (Uber Eats, DoorDash)**
+
+To integrate food ordering capabilities directly from platforms like Uber Eats or DoorDash, you generally have a few options:
+
+**A. Deep Linking to Food Ordering Apps:**
+
+- **Description**: You can use deep links that directly open the restaurant's page on a specific food ordering app (if installed on the user's device) or fallback to a web page.
+- **Implementation**: This involves creating URLs that are structured to open these apps directly. Each service (Uber Eats, DoorDash) will have its own URL schemes.
+- **Example**:
+    
+    ```html
+    htmlCopy code
+    <!-- Link to a restaurant on Uber Eats -->
+    <a href="https://www.ubereats.com/store/some-restaurant-id">Order on Uber Eats</a>
+    <!-- Link to a restaurant on DoorDash -->
+    <a href="https://www.doordash.com/store/some-restaurant-id">Order on DoorDash</a>
+    
+    ```
+    
+    1. User Submission of Bar finder near user 
+    
+    ### **. User-Generated Content for UFC Fight Venues**
+    
+    To allow users to submit locations where they have watched UFC fights, you can create a form on your website where users can enter relevant information. Here’s how to set it up:
+    
+    - **User Submission Form**: Create a form that users can fill out to submit information about a bar. This form can include fields for the location, any fees, what to expect, and the name of the place.
+    - **Database Storage**: Store this information in a database. Each entry would represent a location with its associated data.
+    - **Displaying Information**: Use Google Maps to display these locations as markers. When a user clicks on a marker, you can show the detailed information provided by other users.
+    
+    ### **User Submission Form**
+    
+    HTML form for user inputs:
+    
+    ```html
+    htmlCopy code
+    <form id="submitBar">
+        <input type="text" id="barName" name="barName" placeholder="Bar Name">
+        <input type="text" id="location" name="location" placeholder="Location">
+        <input type="text" id="fees" name="fees" placeholder="Entry Fees">
+        <textarea id="description" name="description" placeholder="What to expect..."></textarea>
+        <button type="submit">Submit</button>
+    </form>
+    
+    ```
+    
+    ### **Backend Database Interaction**
+    
+    You can use a server-side language (like PHP, Python, Node.js) to handle form submissions and store them in a database (like MySQL, MongoDB).
+    
+    ### **4. Streamlining the Process**
+    
+    To streamline the addition of verified locations, you could:
+    
+    - **Admin Panel**: Develop an admin panel where you can review user submissions before they go live.
+    - **Bulk Uploads**: If you have a list of locations, you can use a script to bulk upload these to your database directly.
+    
+    enabling users to search for these bars based on certain parameters such as location (city, state, or zip code), name of the bar, or even specific features (like entry fees or atmosphere) is entirely feasible and a great way to enhance the usability of your UFC bar finder. Implementing a form for input and a search feature can be streamlined with the following steps:
+    
+    ### **1. User Submission Form**
+    
+    You already have the basics of the form for users to submit information about bars where UFC fights are shown. This data should be stored in a database with structured fields to make it searchable.
+    
+     **Database Setup**
+    
+    Choose a database that supports robust querying capabilities. SQL databases like MySQL or PostgreSQL are good choices for structured data like this. Ensure your database schema is designed to facilitate easy searching, e.g., having fields for **`bar_name`**, **`location`**, **`fees`**, and **`description`**.
+    
+     **Search Functionality**
+    
+    You can implement search functionality on your website that allows users to query the database based on their inputs. Here's how you can set it up:
+    
+    - **Search Interface**: Create a search form on your website where users can enter their search criteria.
+    - **Query Handling**: Write backend logic to receive the search terms and query the database accordingly. For example, if a user searches by location, your query should look for bars in the database that match the location criteria entered.
+    - **Results Display**: Once the query is executed, display the results on your website. You can use Google Maps to show where each bar is located, along with a summary of the bar’s details that can expand when clicked.
+    
+    **Example of a Basic Search Form and Backend Logic**
+    
+    **HTML Form for Searching**
+    
+    ```html
+    htmlCopy code
+    <form id="searchForm">
+        <input type="text" id="searchLocation" name="location" placeholder="Enter city or zip">
+        <input type="text" id="searchName" name="name" placeholder="Bar Name (optional)">
+        <button type="submit">Search</button>
+    </form>
+    
+    ```
+    
+    **Backend Query Example (using Node.js and Express)**
+    
+    ```jsx
+    javascriptCopy code
+    app.post('/search', (req, res) => {
+        const location = req.body.location;
+        const name = req.body.name;
+        let query = "SELECT * FROM bars WHERE location LIKE ?";
+        let queryParams = [`%${location}%`];
+    
+        if (name) {
+            query += " AND bar_name LIKE ?";
+            queryParams.push(`%${name}%`);
+        }
+    
+        db.query(query, queryParams, (error, results) => {
+            if (error) throw error;
+            res.json(results); // Send back the search results as JSON
+        });
+    });
+    
+    ```
+    
+     **Enhancing Search Features**
+    
+    Consider adding filters and sorting options to your search functionality. Filters can include:
+    
+    - Entry fees (free, paid)
+    - Ratings (if users can rate the bars)
+    - Specific amenities (like big screens, food availability)
+    
+     **Security and Optimization**
+    
+    Ensure your search feature is secure from common vulnerabilities like SQL injection by using prepared statements or ORM libraries. Optimize the search experience by indexing your database fields that are most frequently searched.
+    
+    By following these steps, you can create a robust search feature for your UFC bar finder that allows users to find bars based on their preferences and locations. This user-generated content approach not only builds a community around your site but also keeps the data rich and up-to-date.
+    
+    1. List of places/direct links and routes to where user can stream fight wheteher it be an app or website 
+    - Use a manual approach where you create and maintain a database of known PPV providers and link to their platforms. This data can be updated based on announcements from official UFC sources or PPV providers like ESPN+ in the USA.
+    - **Streamlined Approach**: Create a simple admin interface to add new PPV events and their purchase links as they become available.
+    
+1. Youtube video api call 
+
+**Most Recent YouTube Videos Search “UFC”**
+
+- **API**: Use the **YouTube Data API** to fetch the most recent videos related to UFC.
+- **Implementation**: You can make API calls that search for videos with the keyword “UFC” and sort them by date to ensure you get the most recent uploads.
+- **Example API Call**:
+    
+    ```bash
+    bashCopy code
+    GET https://www.googleapis.com/youtube/v3/search?q=UFC&part=snippet&order=date&type=video&key=[YOUR_API_KEY]
+    
+    ```
+    
+- **Limit**: YouTube Data API has a free tier with a quota limit, which should be sufficient for moderate use.
+
+**Featured YouTube Videos Search “UFC”**
+
+- **API**: Use the same **YouTube Data API**.
+- **Implementation**: To get featured videos, you might need to define what "featured" means in this context. Typically, it could mean videos that are trending or have high views. Adjust your API query to fetch videos that match this criteria, perhaps sorting by view count or relevance.
+- **Example API Call**:
+    
+    ```bash
+    bashCopy code
+    GET https://www.googleapis.com/youtube/v3/search?q=UFC&part=snippet&order=relevance&type=video&key=[YOUR_A
+    
+    ```
+    
+
+1. twitch streams api call (gettting live twich streams)
+
+### **Twitch Live Streams with Hashtags UFC or MMA**
+
+- **API**: Twitch offers the **Twitch Helix API** for accessing stream data.
+- **Implementation**: Use the API to fetch streams that are tagged with ‘UFC’ or ‘MMA’. You'll need to use the **`Get Streams`** endpoint and filter by tag IDs corresponding to UFC or MMA.
+- **Example API Call**:
+    
+    ```sql
+    sqlCopy code
+    GET https://api.twitch.tv/helix/streams?game_id=[GAME_ID_FOR_MMA]&first=20
+    
+    ```
+    
+- **API Authentication**: Twitch API requires an OAuth token for authentication.
+- **Limit**: The Twitch API has rate limits, but the basic tier should be adequate for initial development and moderate use.
