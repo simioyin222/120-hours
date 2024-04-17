@@ -552,5 +552,6 @@ Axe or WAVE: Integrating accessibility tools into your development process can h
 ##### now back to brainstorming and creating in figma for each page/ part of the program of ui/ux please refer to this link https://www.figma.com/file/IVxSmBgu8wzEJZr5JMPo0s/UFC-FIGHTNIGHT?type=design&node-id=0%3A1&mode=design&t=H1MDyVZOuQ7tRGPx-1
 
 
-
-
+##### watching video to beter draw inspiratoin 
+https://www.youtube.com/watch?v=PeGfX7W1mJk&ab_channel=BuildingAmazingThings|
+https://www.youtube.com/watch?v=jNoBUVvbbHc&ab_channel=FlowieDesign
