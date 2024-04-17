@@ -120,4 +120,5 @@ Whole page will start and be heading UFC FIGHT NIGHT, THEN below will be the vot
 
 04/17/2024
 ##### contuinicance of research of api and calls how i will implement some of these functions
+##### still researching api calls and features and full functions so io know how to better design the remaining pages 
 
