@@ -573,4 +573,5 @@ reviewing these links for better practices and applying them to project
 https://css-tricks.com/design-considerations-text-images/
 https://www.picmonkey.com/blog/color-theory-choosing-the-best-colors-for-your-designs#:~:text=Begin%20with%20one%20color%2C%20and,your%20second%20and%20third%20colors
 https://www.uxpin.com/studio/blog/guide-design-consistency-best-practices-ui-ux-designers/
-
+STIOLL RESRARCHING INSIGHTS ON MODERN PRACTICES UI/UX
+![UFC FIGHTNIGHT – Figma - Brave 4_18_2024 5_44_35 PM](https://github.com/simioyin222/120-hours/assets/141048058/168e5f86-9c61-4ae9-89c9-345232b66d70)
