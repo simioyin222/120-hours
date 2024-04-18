@@ -575,3 +575,6 @@ https://www.picmonkey.com/blog/color-theory-choosing-the-best-colors-for-your-de
 https://www.uxpin.com/studio/blog/guide-design-consistency-best-practices-ui-ux-designers/
 STIOLL RESRARCHING INSIGHTS ON MODERN PRACTICES UI/UX
 ![UFC FIGHTNIGHT – Figma - Brave 4_18_2024 5_44_35 PM](https://github.com/simioyin222/120-hours/assets/141048058/168e5f86-9c61-4ae9-89c9-345232b66d70)
+
+### BACK WATCHING THIS VIDEO will start here from tonight and rest of tommrow 
+https://www.youtube.com/watch?v=PeGfX7W1mJk&ab_channel=BuildingAmazingThings| 
