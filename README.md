@@ -559,3 +559,8 @@ https://www.youtube.com/watch?v=XzjxqS0xAu0&ab_channel=DesignCode
 https://www.youtube.com/watch?v=q6qA_609UOE&ab_channel=JesseShowalter
 https://www.youtube.com/watch?v=1h73MOcH3xA&ab_channel=DesignCode
 https://www.youtube.com/watch?v=VRf8cyeuxoo&ab_channel=CodeWithChris
+
+
+## 04/18/2024
+##### forgot to mark in from 10 am to 12:30 pm cst was contuning watching videos above and heading to the library but now back home
+
