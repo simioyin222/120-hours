@@ -563,4 +563,5 @@ https://www.youtube.com/watch?v=VRf8cyeuxoo&ab_channel=CodeWithChris
 
 ## 04/18/2024
 ##### forgot to mark in from 10 am to 12:30 pm cst was contuning watching videos above and heading to the library but now back home
-
+#### FINISHED front page 
+![Iphone 13 Mini - First Frame](https://github.com/simioyin222/120-hours/assets/141048058/3c91aac1-073c-48fa-bb0b-9e6832a4adab)
