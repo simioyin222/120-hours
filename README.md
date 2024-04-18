@@ -569,3 +569,8 @@ https://www.youtube.com/watch?v=VRf8cyeuxoo&ab_channel=CodeWithChris
 working on streaming page
 ![Streaming page](https://github.com/simioyin222/120-hours/assets/141048058/3891bd55-3d6a-487a-8f8a-b751890f9024)
 
+reviewing these links for better practices and applying them to project 
+https://css-tricks.com/design-considerations-text-images/
+https://www.picmonkey.com/blog/color-theory-choosing-the-best-colors-for-your-designs#:~:text=Begin%20with%20one%20color%2C%20and,your%20second%20and%20third%20colors
+https://www.uxpin.com/studio/blog/guide-design-consistency-best-practices-ui-ux-designers/
+
