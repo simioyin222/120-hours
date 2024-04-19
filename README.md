@@ -578,3 +578,7 @@ STIOLL RESRARCHING INSIGHTS ON MODERN PRACTICES UI/UX
 
 ### BACK WATCHING THIS VIDEO will start here from tonight and rest of tommrow 
 https://www.youtube.com/watch?v=PeGfX7W1mJk&ab_channel=BuildingAmazingThings| 
+
+
+
+##### 04/19/2024 gonna add some work today 
