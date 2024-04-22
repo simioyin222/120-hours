@@ -589,3 +589,5 @@ https://www.youtube.com/watch?v=PeGfX7W1mJk&ab_channel=BuildingAmazingThings|
 10AM - 12:30 PM CST  Preparing and intervieing with pupod 
 
 ### 1:19pm now back watching video from above and finalizing designs on figma will be making accounts for both and probably work all today and more 
+
+opinons draft completed now will make backgrounds for remainng pages then move onto coding portion 
