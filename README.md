@@ -595,7 +595,9 @@ TNIGHT – Figma - Brave 4_22_2024 2_38_29 PM](https://github.com/simioyin222/12
 
 Starting on streaming page - reoraganixed creation files for better ui/ux practices and handling when creativing the html css and overall styling 
 
-### all four 5 pages have now been built and styled with a certain design now i will adjust background for better quiality and contrast using best ui/ux practives in terms of coloring for later now i am gonna start coding 
+### all four 5 pages have now been built and styled with a certain design now i will adjust 
+ackground for better quiality and contrast using best ui/ux practives in terms of coloring for later now i am gonna start coding 
 
 
-![UFC FIGHTNIGHT – Figma - Brave 4_22_2024 4_24_58 PM](https://github.com/simioyin222/120-hours/assets/141048058/b2328518-bb92-47b6-af59-8e310c7a5185)
+
+![C__Users_Simi_Videos_Captures 4_22_2024 4_27_09 PM](https://github.com/simioyin222/120-hours/assets/141048058/b48d7510-0091-43e2-a1db-1dde78d3f128)
