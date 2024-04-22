@@ -590,4 +590,5 @@ https://www.youtube.com/watch?v=PeGfX7W1mJk&ab_channel=BuildingAmazingThings|
 
 ### 1:19pm now back watching video from above and finalizing designs on figma will be making accounts for both and probably work all today and more 
 
-opinons draft completed now will make backgrounds for remainng pages then move onto coding portion 
+opinons draft completed now will make backgrounds for remainng pages then move onto coding portion ![UFC FIGHTNIGHT – Figma - Brave 4_22_2024 2_38_29 PM](https://github.com/simioyin222/120-hours/assets/141048058/3f0cd412-2ffe-4e99-ba02-180c064d0abc)
+
