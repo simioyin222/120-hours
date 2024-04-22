@@ -601,3 +601,11 @@ ackground for better quiality and contrast using best ui/ux practives in terms o
 
 
 ![C__Users_Simi_Videos_Captures 4_22_2024 4_27_09 PM](https://github.com/simioyin222/120-hours/assets/141048058/b48d7510-0091-43e2-a1db-1dde78d3f128)
+
+
+#### fully organized frontend and html styling and stlyer css also pictures in project 
+
+
+![C__Users_Simi_OneDrive_Desktop_Projects_UFCEVENTPLANNER 4_22_2024 5_20_11 PM](https://github.com/simioyin222/120-hours/assets/141048058/43b2ee58-a765-4e2d-81fa-5a3a7dfc891d)
+![C__Users_Simi_OneDrive_Desktop_Projects_UFCEVENTPLANNER 4_22_2024 5_20_16 PM](https://github.com/simioyin222/120-hours/assets/141048058/3b86671d-09ff-4ad1-8038-690d5c8b7604)
+![UFC FIGHTNIGHT – Figma - Brave 4_22_2024 5_20_01 PM](https://github.com/simioyin222/120-hours/assets/141048058/14311b29-f72d-461d-a290-8d6013b22904)
