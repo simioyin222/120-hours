@@ -592,3 +592,6 @@ https://www.youtube.com/watch?v=PeGfX7W1mJk&ab_channel=BuildingAmazingThings|
 
 opinons draft completed now will make backgrounds for remainng pages then move onto coding portion ![UFC FIGHTNIGHT – Figma - Brave 4_22_2024 2_38_29 PM](https://github.com/simioyin222/120-hours/assets/141048058/3f0cd412-2ffe-4e99-ba02-180c064d0abc)
 
+Starting on streaming page - reoraganixed creation files for better ui/ux practices and handling when creativing the html css and overall styling 
+![UFC FIGHTNIGHT – Figma - Brave 4_22_2024 3_22_07 PM](https://github.com/simioyin222/120-hours/assets/141048058/e95150b0-fea9-4cc8-9c5e-ef997ba6cf63)
+
