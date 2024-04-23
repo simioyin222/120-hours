@@ -618,3 +618,5 @@ ackground for better quiality and contrast using best ui/ux practives in terms o
 ### stasrting back research on replacing udc scarper wioith another feature or completely removing and adding alt 
 
 ##  finallizaing on an easy way i can update it for same efect or repalce still cannot decide 
+
+#### sneding out email to erik and kandarp puppod
