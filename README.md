@@ -623,3 +623,4 @@ ackground for better quiality and contrast using best ui/ux practives in terms o
 
 ### finally have decided on interactive fight night calendar to inculde in place of live events 
 
+### Now frameworking and setting up code portion of project wwill provide repo shortly and begin working from that in terms of commits nad work towards 120 hours
