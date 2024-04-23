@@ -620,3 +620,6 @@ ackground for better quiality and contrast using best ui/ux practives in terms o
 ##  finallizaing on an easy way i can update it for same efect or repalce still cannot decide 
 
 #### sneding out email to erik and kandarp puppod
+
+### finally have decided on interactive fight night calendar to inculde in place of live events 
+
