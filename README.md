@@ -624,3 +624,5 @@ ackground for better quiality and contrast using best ui/ux practives in terms o
 ### finally have decided on interactive fight night calendar to inculde in place of live events 
 
 ### Now frameworking and setting up code portion of project wwill provide repo shortly and begin working from that in terms of commits nad work towards 120 hours
+
+#### downloading and installing pACKAGES = no commits yet on link but getting ready and preparing all files and folders wiht git so dont have submodule issues later https://github.com/simioyin222/UFC-FIGHTNIGHT
