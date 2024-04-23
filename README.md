@@ -626,3 +626,7 @@ ackground for better quiality and contrast using best ui/ux practives in terms o
 ### Now frameworking and setting up code portion of project wwill provide repo shortly and begin working from that in terms of commits nad work towards 120 hours
 
 #### downloading and installing pACKAGES = no commits yet on link but getting ready and preparing all files and folders wiht git so dont have submodule issues later https://github.com/simioyin222/UFC-FIGHTNIGHT
+
+Havent pushed yet to git but this is so far how its set up in terms of coding and project organiuzation 
+
+![UFCEVENTPLANNER - Visual Studio Code 4_23_2024 5_43_11 PM](https://github.com/simioyin222/120-hours/assets/141048058/57a3d12b-b952-44d6-bc1a-6f684ee02604)
