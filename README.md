@@ -613,3 +613,6 @@ ackground for better quiality and contrast using best ui/ux practives in terms o
 
 #### Currently researching alternative for ufc web scraper for live events (can refer to previous commits or above history for proof of past possible intergration) now i am looking for an alkternative or completelly taking out the feature and replacing it with a different type of feature but same concept of engaging the user with the most relevant data in some fashion 
 ### Bstill researching will contintue tom,mmorw and may even do some work tonight 
+
+
+### stasrting back research on replacing udc scarper wioith another feature or completely removing and adding alt 
