@@ -640,3 +640,4 @@ Havent pushed yet to git but this is so far how its set up in terms of coding an
 ### forgot to mark in was gone for 30 mins for lunch then came back at like 4 ish been back in figma adjusting and fixing adding things will be adding picture soon to show proof of work 
 
 ### gonna go to info sessions soon here as welkl 
+#### just finished career reviuew meeting went longewr than inteneded 
