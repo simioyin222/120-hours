@@ -630,3 +630,5 @@ ackground for better quiality and contrast using best ui/ux practives in terms o
 Havent pushed yet to git but this is so far how its set up in terms of coding and project organiuzation 
 
 ![UFCEVENTPLANNER - Visual Studio Code 4_23_2024 5_43_11 PM](https://github.com/simioyin222/120-hours/assets/141048058/57a3d12b-b952-44d6-bc1a-6f684ee02604)
+
+#### preparing for ad sol ineervview then will work on capstone rest of the day 
