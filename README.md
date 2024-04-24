@@ -636,3 +636,5 @@ Havent pushed yet to git but this is so far how its set up in terms of coding an
 #### Just finishierd ad sol interview it went well i now will be going to lumch for the next hour unless i commit here 
 #### preparing and sent out thank you emails after reminder in discrod now offically goping on lunch ![120-hours_README md at main · simioyin222_120-hours - Brave 4_24_2024 2_43_07 PM](https://github.com/simioyin222/120-hours/assets/141048058/ffdc11de-ce57-4679-8520-24b855d18117)
 ![Drafts (3) - simi oyinkolade@gmail com - Gmail - Brave 4_24_2024 2_42_00 PM](https://github.com/simioyin222/120-hours/assets/141048058/d64e626c-34bb-413d-9e22-11ddee9e0258)
+
+### forgot to mark in was gone for 30 mins for lunch then came back at like 4 ish been back in figma adjusting and fixing adding things will be adding picture soon to show proof of work 
