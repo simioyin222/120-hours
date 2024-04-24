@@ -641,3 +641,4 @@ Havent pushed yet to git but this is so far how its set up in terms of coding an
 
 ### gonna go to info sessions soon here as welkl 
 #### just finished career reviuew meeting went longewr than inteneded 
+#### will upload and starbeginning my code code tormrow. Have group interviuew tmr with opine . heading out for today 
