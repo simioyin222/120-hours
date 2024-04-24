@@ -633,3 +633,4 @@ Havent pushed yet to git but this is so far how its set up in terms of coding an
 
 #### 10 am cst preparing for ad sol ineervview then will work on capstone rest of the day 
 ###  still preparing was freakign out bewcause couldnt find ad sol email all for it to be in my spam box for some reason
+#### Just finishierd ad sol interview it went well i now will be going to lumch for the next hour unless i commit here 
