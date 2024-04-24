@@ -638,3 +638,5 @@ Havent pushed yet to git but this is so far how its set up in terms of coding an
 ![Drafts (3) - simi oyinkolade@gmail com - Gmail - Brave 4_24_2024 2_42_00 PM](https://github.com/simioyin222/120-hours/assets/141048058/d64e626c-34bb-413d-9e22-11ddee9e0258)
 
 ### forgot to mark in was gone for 30 mins for lunch then came back at like 4 ish been back in figma adjusting and fixing adding things will be adding picture soon to show proof of work 
+
+### gonna go to info sessions soon here as welkl 
