@@ -651,3 +651,7 @@ setting up project repo currently downloaidng react app and settting up https://
 
 ### bnack on same code as mentioned yetedrday in above repo preparing for day and making final interview submissionbs 
 #### took slight break because of lunch and just my burthday todayt april 26th 
+
+
+### lines 591 - 6653 were all the week 04/22-26 
+### still working on this https://github.com/simioyin222/UFC-FIGHTNIGHT please refer to see commits on this link for any missing hours or times apart from this , this commit is to indicate i am still researching incorprating full calendar i have imported it and downloaded all needed paclages but theres some more learning to the full calendar integration i am leanring before full incorporating into project 
