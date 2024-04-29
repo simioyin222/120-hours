@@ -655,3 +655,6 @@ setting up project repo currently downloaidng react app and settting up https://
 
 ### lines 591 - 6653 were all the week 04/22-26 
 ### still working on this https://github.com/simioyin222/UFC-FIGHTNIGHT please refer to see commits on this link for any missing hours or times apart from this , this commit is to indicate i am still researching incorprating full calendar i have imported it and downloaded all needed paclages but theres some more learning to the full calendar integration i am leanring before full incorporating into project 
+
+#### fixing the overall code right now for full calendar intergration, currentyly right now the home page is a mess and needs to be compleltey coded and connected in terms of looks and design 
+![React App - Brave 4_29_2024 4_51_40 PM](https://github.com/simioyin222/120-hours/assets/141048058/d5b917af-5fa4-4a12-9d63-f57a57e472e4)
