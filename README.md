@@ -658,3 +658,6 @@ setting up project repo currently downloaidng react app and settting up https://
 
 #### fixing the overall code right now for full calendar intergration, currentyly right now the home page is a mess and needs to be compleltey coded and connected in terms of looks and design 
 ![React App - Brave 4_29_2024 4_51_40 PM](https://github.com/simioyin222/120-hours/assets/141048058/d5b917af-5fa4-4a12-9d63-f57a57e472e4)
+
+
+#### as sttated and put in my last piucture i am currently working through getting the home page up and running essentriall once i have learned and done that the rest should be pretty easy and addiung any features itss mainlky a issue of naming convenctions and where the app is reading/locating them 
