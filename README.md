@@ -665,3 +665,7 @@ setting up project repo currently downloaidng react app and settting up https://
 
 ### first morning commit still working on fixing and algithinbg all elemets proferly to view on mobile and web but web for now so i can better visually develop 
 #### still working on homepage fxinig it visually thats why no commits have been made on primary repo
+
+curretnyl in figma adjusting mobile frame or size to more desktstop approriate sizes 
+
+![ChatGPT - Figma Design Buddy - Brave 5_1_2024 12_40_11 PM](https://github.com/simioyin222/120-hours/assets/141048058/e9c394ed-caef-4646-a050-c91c40556bb8)
