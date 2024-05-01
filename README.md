@@ -661,3 +661,6 @@ setting up project repo currently downloaidng react app and settting up https://
 
 
 #### as sttated and put in my last piucture i am currently working through getting the home page up and running essentriall once i have learned and done that the rest should be pretty easy and addiung any features itss mainlky a issue of naming convenctions and where the app is reading/locating them 
+
+
+### first morning vommit still working on fixing and algithinbg all elemets proferly to view on mobile and web but web for now so i can better visually develop 
