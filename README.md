@@ -671,3 +671,5 @@ curretnyl in figma adjusting mobile frame or size to more desktstop approriate s
 ![ChatGPT - Figma Design Buddy - Brave 5_1_2024 12_40_11 PM](https://github.com/simioyin222/120-hours/assets/141048058/e9c394ed-caef-4646-a050-c91c40556bb8)
 
 struggling to convert to webbrowser 
+
+#### just finished crum and getting ready fgor the day almost done with first page and push notfications once set up wqill had naviagtion and thast page will be done 
