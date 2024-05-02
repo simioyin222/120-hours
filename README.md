@@ -674,3 +674,9 @@ struggling to convert to webbrowser
 
 #### just finished crum and getting ready fgor the day almost done with first page and push notfications once set up wqill had naviagtion and thast page will be done 
 #### back on project repo just updated not to long ago
+
+
+#### moving on from push notfications currently not working now working on naviagation/routesd for nav bar and also ensuring rescaling and respoive desgin no matter device or zoom in or out cause currently the resposinveness is out of wack when i upload on a phone![unnamed](https://github.com/simioyin222/120-hours/assets/141048058/d0267548-7959-40bb-9e1f-1de5bbb75010)
+ 
+
+![unnamed](https://github.com/simioyin222/120-hours/assets/141048058/0520bb51-c09a-4f8e-95e6-91f252eeefe5)
