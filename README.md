@@ -673,3 +673,4 @@ curretnyl in figma adjusting mobile frame or size to more desktstop approriate s
 struggling to convert to webbrowser 
 
 #### just finished crum and getting ready fgor the day almost done with first page and push notfications once set up wqill had naviagtion and thast page will be done 
+#### back on project repo just updated not to long ago
